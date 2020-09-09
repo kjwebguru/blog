@@ -1,2 +1,2 @@
 # blog
-This is a dummy blogging website based on React and Redux
+This is a practice blogging website based on React and Redux
